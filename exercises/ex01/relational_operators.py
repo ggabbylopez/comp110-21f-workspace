@@ -1,5 +1,4 @@
-# Using input the terminal asks for a number that is then turned into an integer and 
-# the given numbers are put into relation expressions and then printed out
+"""Using input the terminal asks for a number that is then turned into an integer and the given numbers are put into relation expressions and then printed out.""" 
 __author__ = "730407925"
 
 # Program logic

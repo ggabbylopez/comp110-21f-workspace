@@ -1,5 +1,4 @@
-# Using input the terminal asks for a number that is then turned into an integer and 
-# the given numbers are put into expressions and then printed out
+"""input the terminal asks for a number that is then turned into an integer and the given numbers are put into expressions and then printed out."""
 __author__ = "730407925"
 
 # program logic
