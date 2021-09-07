@@ -15,7 +15,7 @@ from random import randint
 # Begin your solution here...
 
 i = randint(1, 4)
-print("your fortune cookie says...")
+print("Your fortune cookie says...")
 
 if (i == 1): 
     print("You will pass all your classes")
