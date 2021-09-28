@@ -14,4 +14,4 @@ while i < len(word):
         j += 1
     i += 1
         
-print ("Found duplicate: " + str(output))
+print("Found duplicate: " + str(output))
